@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Anime
+2. Pizza
+3. Juegos
+4. Películas
